@@ -7,6 +7,8 @@ cacheUrl: https://furukawatatsuhiro.github.io/ee/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: http://blog.livedoor.jp/kinisoku/index.rdf
-  - href: 
-  - href: 
-  - href: https://b.hatena.ne.jp/hotentry.rss
+  - href: http://www.jisaka.com/index.rdf
+  - href: http://ideal2ch.livedoor.biz/index.rdf
+  - href: http://oryouri.2chblog.jp/index.rdf
+　- href: http://blog.livedoor.jp/goldennews/index.rdf
+  - href: https://feeds.mtmx.jp/sites/1692/feed.xml
