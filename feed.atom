@@ -1,10 +1,351 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-02T00:34:59.280Z</id>
+    <id>https://furukawatatsuhiro.github.io/ee/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-03-02T00:34:59.280Z</updated>
+    <updated>2022-03-02T14:16:15.400Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://furukawatatsuhiro.github.io/ee/index.html"/>
+    <link rel="self" href="https://furukawatatsuhiro.github.io/ee/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[岸田首相、ウクライナ難民受け入れ表明　「至急、実務を調整」 | 毎日新聞]]></title>
+        <id>https://mainichi.jp/articles/20220302/k00/00m/010/320000c</id>
+        <link href="https://mainichi.jp/articles/20220302/k00/00m/010/320000c"/>
+        <updated>2022-03-02T11:31:26.000Z</updated>
+        <summary type="html"><![CDATA[岸田文雄首相は2日、首相官邸で記者団にウクライナ情勢に関し「ウクライナとの連帯をさらに示すべく、第三国に避難した人の受け入れを進める。知人や親族が日本にいる人の受け入れを想定するが、人道的な観点から対応する」と表明した。ウクライナ情勢を巡り、ポーランド、ドイツ両首脳と相次いで電話協議した後、首相官...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岸田首相 ウクライナからの避難民 日本への受け入れを表明 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220302/k10013510691000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220302/k10013510691000.html"/>
+        <updated>2022-03-02T11:30:27.000Z</updated>
+        <summary type="html"><![CDATA[ロシアの軍事侵攻をめぐり岸田総理大臣は2日夜、記者団に対し、ウクライナから避難した人の日本への受け入れを進める方針を明らかにしました。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[プーチン大統領、自国で反戦の小学生3人を逮捕 ロシアの反体制政治家が写真を投稿 うち2人は女の子、ボードには花の絵が…：中日スポーツ・東京中日スポーツ]]></title>
+        <id>https://www.chunichi.co.jp/article/427561</id>
+        <link href="https://www.chunichi.co.jp/article/427561"/>
+        <updated>2022-03-02T09:37:35.000Z</updated>
+        <summary type="html"><![CDATA[自国の国民どころか、児童にも容赦はない。ロシアはウクライナ侵略を開始してから2日で1週間目。ロシアで反戦を訴えた者は50都市で計約7000人が逮捕、拘束された。中には、小学校低学年とみられる3人の児童も逮捕され、護送車に押し込められた写真がネットで拡散、物議を醸している。 ロシア野党の政治家、イリヤ・ヤシ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022年度に100店　NTTドコモがドコモショップ400〜500店舗の閉店を計画 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/52406</id>
+        <link href="https://bunshun.jp/articles/-/52406"/>
+        <updated>2022-03-02T08:50:35.000Z</updated>
+        <summary type="html"><![CDATA[「週刊文春」は2月10日発売号でNTTドコモ社員の“大幅賃下げ”を報じ、2月17日発売号ではNTTが賃下げの“大号令”をNTTグループ全体に向けて出している実態を報じた。今回新たに、NTTドコモがドコモショップの大量閉店を計画し、店舗を運営する代理店側に伝えていることが小誌の取材でわかった。 ドコモは2020年12月、持株会...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「勝てるようにやっているとは思えない」専門家も戸惑うウクライナ侵攻…プーチンは“狂気の独裁者”になったのか | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/52420</id>
+        <link href="https://bunshun.jp/articles/-/52420"/>
+        <updated>2022-03-02T08:50:27.000Z</updated>
+        <summary type="html"><![CDATA[ロシアがウクライナへの全面侵攻を開始してから約1週間。刻々と変化する戦況や現地での痛ましい被害が伝えられるなか、未だに見えないのが「プーチン大統領の思惑」だ。プーチンは何を求め、どんなシナリオのもとでこの侵攻を行っているのか。 そこで、防衛省防衛研究所でロシアの安全保障について研究している山添博史...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[駐日ウクライナ大使、林外相と面会希望も１カ月実現せず]]></title>
+        <id>https://www.sankei.com/article/20220302-ZXURCTX2HZM2HCHY7LGOYPDNLA/</id>
+        <link href="https://www.sankei.com/article/20220302-ZXURCTX2HZM2HCHY7LGOYPDNLA/"/>
+        <updated>2022-03-02T08:37:43.000Z</updated>
+        <summary type="html"><![CDATA[参院予算委で答弁に臨む林芳正外務相＝２日午前、国会・参院第一委員会室（矢島康弘撮影）ウクライナ情勢の緊迫を受け、同国のコルスンスキー駐日大使が林芳正外相に面会を要請していたが、約１カ月にわたり実現していなかったことが２日の参院予算委員会で明らかになった。林氏は「私自身は大使からの面会要望は承知し...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[東京都 新型コロナ 1万2693人感染確認 先週水曜より約1900人減 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220302/k10013509571000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220302/k10013509571000.html"/>
+        <updated>2022-03-02T07:49:02.000Z</updated>
+        <summary type="html"><![CDATA[東京都は2日、都内で新たに1万2693人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の水曜日よりおよそ1900人減りました。 またこれまでの都の基準で集計した人工呼吸器かECMO＝人工心肺装置を使っている重症の患者は2日時点で1日と同じ68人でした。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHubがロシアからのアクセスを遮断する要求を拒否、「GitHubのビジョンはどこに住んでいるかに関係なく全開発者のホームになること」と回答]]></title>
+        <id>https://gigazine.net/news/20220302-github-access-from-russia/</id>
+        <link href="https://gigazine.net/news/20220302-github-access-from-russia/"/>
+        <updated>2022-03-02T07:47:44.000Z</updated>
+        <summary type="html"><![CDATA[ロシアのウクライナ侵攻を受けて、Appleが製品販売を停止したり、YouTubeがロシア系ニュースメディア2社の排除を決めたりと、ロシアに対する制裁措置が行われている一方で、Binanceをはじめとする仮想通貨取引所はロシアのユーザーのアカウント凍結要求を拒否する姿勢を見せています。新たに、開発プラットフォームのGit...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[トイレ警報システム不備 発見遅れ利用者死亡 日比谷線八丁堀駅 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220302/k10013509831000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220302/k10013509831000.html"/>
+        <updated>2022-03-02T07:38:50.000Z</updated>
+        <summary type="html"><![CDATA[東京メトロの駅の多機能トイレで、警報システムの不備が原因で、トイレ内で倒れた利用者の発見が大幅に遅れ、その後死亡していたことが分かりました。 ほかの多機能トイレ、12か所でもシステムの不具合が見つかったということで、東京メトロは再発防止を徹底したいとしています。 去年6月、東京メトロ 日比谷線の八丁堀...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓮舫議員のアイドル長男が自民党に入党　自民党の大物フィクサーと養子縁組]]></title>
+        <id>https://www.news-postseven.com/archives/20220302_1730936.html?DETAIL</id>
+        <link href="https://www.news-postseven.com/archives/20220302_1730936.html?DETAIL"/>
+        <updated>2022-03-02T07:37:07.000Z</updated>
+        <summary type="html"><![CDATA[立憲民主党の蓮舫参議院議員（54才）に関する驚くべき情報が浮上した。アイドルグルームのメンバーとしても活動した長男・村田琳（24才）が自民党に入党していた。さらに、自民党の大物フィクサーとして知られる人物と養子縁組をしていたことがわかった。3日発売の『女性セブン』が報じる。 永田町関係者が明かす。 「実...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Production Ready GraphQLはGraphQLを採用するなら必ず読んでおきたい良書]]></title>
+        <id>https://zenn.dev/adwd/articles/4b1e38796bd763</id>
+        <link href="https://zenn.dev/adwd/articles/4b1e38796bd763"/>
+        <updated>2022-03-02T07:16:34.000Z</updated>
+        <summary type="html"><![CDATA[タイトルのとおりです。この本を読まずにGraphQLについての記事を書いたりしツイートしてたのが恥ずかしいくらいに良質なプラクティスが記載されています。GraphQLを採用して悩むことのほとんどはこの本に書いてあるくらいな印象で、この本を読むと効率よくGraphQLを使った開発の品質を向上できると思います。 どんな人...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[根室沖でヘリ領空侵犯 ロシア機か 防衛省が外交ルート通じ抗議 | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220302/k10013509681000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220302/k10013509681000.html"/>
+        <updated>2022-03-02T07:08:15.000Z</updated>
+        <summary type="html"><![CDATA[2日午前、北海道の根室半島沖の上空で、ロシア機とみられるヘリコプターが日本の領空を侵犯しました。 ロシア機やロシア機とみられる航空機が日本の領空を侵犯したと防衛省が公表したのは去年9月以来です。 防衛省によりますと、2日午前10時23分ごろ、北海道の根室半島の南東沖の上空で、ロシア機とみられるヘリコプター...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[須藤玲司 on Twitter: "ウクライナへ侵攻したロシア人兵士12万人ひとりひとりの個人名と所属を、ウクライナ・プラウダが晒してしまう。 リストは6616ページにも及ぶ。 https://t.co/qTdOQQT7BI こんなの前代未聞では。 ここからどんな… https://t.co/zRnYnzKdz2"]]></title>
+        <id>https://twitter.com/LazyWorkz/status/1498694026005864448</id>
+        <link href="https://twitter.com/LazyWorkz/status/1498694026005864448"/>
+        <updated>2022-03-02T06:48:51.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナへ侵攻したロシア人兵士12万人ひとりひとりの個人名と所属を、ウクライナ・プラウダが晒してしまう。 リストは6616ページにも及ぶ。 https://t.co/qTdOQQT7BI こんなの前代未聞では。 ここからどんな… https://t.co/zRnYnzKdz2]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[世界銀行の男女格差調査の中身を見てみた]]></title>
+        <id>https://anond.hatelabo.jp/20220302153114</id>
+        <link href="https://anond.hatelabo.jp/20220302153114"/>
+        <updated>2022-03-02T06:36:14.000Z</updated>
+        <summary type="html"><![CDATA[世界銀行による男女格差の調査で日本の順位が80位から103位に落ちたとのこと。 https://nordot.app/871377521626415104 具体的な内容がわからなかったので、世界銀行が公開しているデータを見てみた。 元データプレスリリースはこちら https://www.worldbank.org/en/news/press-release/2022/03/01/nearly-2-4-billion-w...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【速報】大阪・関西万博「公式キャラクター」最終候補の３作品発表　全国から意見募集し春頃最終決定]]></title>
+        <id>https://www.asahi.co.jp/webnews/pages/abc_14214.html</id>
+        <link href="https://www.asahi.co.jp/webnews/pages/abc_14214.html"/>
+        <updated>2022-03-02T06:01:32.000Z</updated>
+        <summary type="html"><![CDATA[関西ニュースKANSAI 【速報】大阪・関西万博「公式キャラクター」最終候補の３作品発表　全国から意見募集し春頃最終決定 03/02 14:04 ２０２５年に開かれる大阪・関西万博の「公式キャラクターデザイン」の最終候補作品３つが発表されました。 日本国際博覧会協会によりますと、去年１１月から１ヵ月かけて行った一般公...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアで反戦デモの逮捕者６４００人超、国営テレビは報道せず]]></title>
+        <id>https://www.cnn.co.jp/world/35184287.html</id>
+        <link href="https://www.cnn.co.jp/world/35184287.html"/>
+        <updated>2022-03-02T04:13:50.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ侵攻に反対するデモ参加者＝２月２４日、ロシア・モスクワ/Daniil Danchenko/NurPhoto via Getty Images モスクワ（ＣＮＮ） ロシア軍のウクライナ侵攻が始まって以来、ロシア国内で反戦デモに参加していた６４００人以上が逮捕された。しかし参加者が拘束される様子は国営テレビでは一切報道されていない。 ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[佐藤優｢もしもアメリカがトランプ大統領のままなら､ロシアのウクライナ侵攻は起こらなかった｣ ｢ロシアが軍事介入するなら､アメリカも軍を送る｣と脅せたはず]]></title>
+        <id>https://president.jp/articles/-/55173</id>
+        <link href="https://president.jp/articles/-/55173"/>
+        <updated>2022-03-02T03:29:07.000Z</updated>
+        <summary type="html"><![CDATA[プーチンは精神を病んだのか 2月24日、ロシアのプーチン大統領はウクライナへの軍事侵攻に踏み切りました。 すべての国連加盟国は武力による威嚇や武力行使に訴えてはいけないという、戦後長らく守られてきた国連憲章第2条4項の約束事を露骨に破り、既存の国際秩序を破壊したわけですから、ロシアの責任は法的にも道義的...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【永久保存版】「引っ越しするならとりあえずこれを見ておけ！」っていう記事_PR | SPOT]]></title>
+        <id>https://travel.spot-app.jp/hikkoshi_yoppy/</id>
+        <link href="https://travel.spot-app.jp/hikkoshi_yoppy/"/>
+        <updated>2022-03-02T03:18:22.000Z</updated>
+        <summary type="html"><![CDATA[※この記事は「NURO 光」の提供でお送りいたします。 こんにちは！！！！！！！！！！！！ 引っ越しのシーズンですね！！！！！！！！！！！！！！！！！！！！！！！！ 毎年この時期になるとTwitterなんかで「絶対都市ガス！プロパンはガス代えぐいぞ！」とか、「引っ越しの時はこれに注意！」みたいなツイートがバズっ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「「辛くて苦手」に新商品　「種なし柿の種」登場」についてお詫び]]></title>
+        <id>https://kyoko-np.net/owabi_220302.html</id>
+        <link href="https://kyoko-np.net/owabi_220302.html"/>
+        <updated>2022-03-02T03:06:47.000Z</updated>
+        <summary type="html"><![CDATA[２０１６年６月８日付本紙記事「「辛くて苦手」に新商品　「種なし柿の種」登場」につきまして、「ピーナッツしかない柿の種」が近く発売されるとのご指摘が、複数の読者から寄せられました。編集部で調査した結果、亀田製菓から『亀田の柿の種　ピーナッツだけ』という類似商品が今月発売されることを確認しました。虚...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHubセキュリティ Organization運用のベストプラクティス]]></title>
+        <id>https://zenn.dev/tmknom/books/github-organization-security</id>
+        <link href="https://zenn.dev/tmknom/books/github-organization-security"/>
+        <updated>2022-03-02T03:02:37.000Z</updated>
+        <summary type="html"><![CDATA[本書ではGitHub Organizationをセキュアに運用する方法について解説します。 GitHubは大変便利なサービスで、個人利用のみならず組織で活用されるケースも多いです。しかしGitHubの初期設定は利便性重視であり、セキュリティ対策は利用者による明示的な設定が必要です。 本書では意外と日本語でまとまった情報がない、Or...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新人漫画家「シナリオ力つける訓練ある？」編集「知り合いじゃない男子高校生と女子高生を知り合いにする方法を30個考えなさい」]]></title>
+        <id>https://togetter.com/li/1852953</id>
+        <link href="https://togetter.com/li/1852953"/>
+        <updated>2022-03-02T01:16:08.000Z</updated>
+        <summary type="html"><![CDATA[洋介犬@ジゴサタ４期開始決定 @yohsuken 新人漫画家「シナリオ力をつけるいい訓練ってあります？」 編集「あるよ。じゃあ簡単なお題で。『知り合いじゃない男子高校生と女子高生を知り合いにする方法を考えなさい』ただし、できるだけありきたりではない方法で」 「！？」 「３０個ぐらい考えてみようか」 2022-03-01 20...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手作り品のツイートがバズり『商品化してください！』というリプがたくさんついたので実際に販売したところ、こんな事になりました]]></title>
+        <id>https://togetter.com/li/1852960</id>
+        <link href="https://togetter.com/li/1852960"/>
+        <updated>2022-03-02T01:12:11.000Z</updated>
+        <summary type="html"><![CDATA[イシデ電 @IshideDen 私その昔さ、とある手作り品のツイートがバズりにバズってネットニュースにもなって「商品化してくださいお願いします！！」ってリプライが雪崩のようにきて、それで、職人さん探してお金も時間もたっぷりかけて量産してもらったのよ。そして…→ 2022-03-01 15:17:06 イシデ電 @IshideDen 満を持して...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本人は核兵器被害への解像度が「かなり高い」民族であり、諸外国では単なる「強めのバクダン」として認知されているのではという話]]></title>
+        <id>https://togetter.com/li/1852945</id>
+        <link href="https://togetter.com/li/1852945"/>
+        <updated>2022-03-02T01:05:26.000Z</updated>
+        <summary type="html"><![CDATA[あめだま @ames_poke 怖いことに気がついたんだけど、ちっちゃな頃からはだしのゲンやら歴史の資料集やらで核の怖さをよくよくわかってるのってもしかして僕たちが日本で生まれ育っているからに他ならないのか？よその国でも「核が落ちると影が焼きついたり、人間がデロデロになります」って周知されてる？されてるとい...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「針のむしろのようでした」参考人として出席したらヤジを受けた。女性が語る“国会の昭和感”]]></title>
+        <id>https://www.huffingtonpost.jp/entry/story_jp_621cf06fe4b0d1388f18ac8b</id>
+        <link href="https://www.huffingtonpost.jp/entry/story_jp_621cf06fe4b0d1388f18ac8b"/>
+        <updated>2022-03-02T00:59:49.000Z</updated>
+        <summary type="html"><![CDATA[国会に出席した参考人に対し、国会議員からヤジが飛びました。実際に参考人として出席した人からは、「参考人にヤジを飛ばさないで」との訴えが上がっています。]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Install Node.js and npm on Windows]]></title>
+        <id>621e97a4c4d0d306772f290b</id>
+        <link href="https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/"/>
+        <updated>2022-03-02T00:18:51.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up]]></summary>
+        <author>
+            <name>Daniel Rosa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[表紙 - 本物のC]]></title>
+        <id>http://real-c.info/</id>
+        <link href="http://real-c.info/"/>
+        <updated>2022-03-02T00:18:46.000Z</updated>
+        <summary type="html"><![CDATA[このサイトは「本物の C 言語」について学習する機会の提供を目的としています。 「本物の」とはつまり、 標準規格（仕様）が C 言語をどういうものとして定めているか C プログラムが実際に CPU をどう動かすか という二つの意味合いに於いてです。 どうも巷間にはその辺りを気にせず何となくで書かれた資料が多い様な...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ある企業のYoutubeチャンネルを運営してるが役員を全員殴りたい話]]></title>
+        <id>https://anond.hatelabo.jp/20220301105643</id>
+        <link href="https://anond.hatelabo.jp/20220301105643"/>
+        <updated>2022-03-01T23:59:46.000Z</updated>
+        <summary type="html"><![CDATA[私はある企業のYouTubeを運用している。 企画立案・撮影・編集をすべて私１人で行っている。 そんな私の身についさっき起きた話を聞いてほしい。 私は今の会社に入るまではとあるテレビ局に勤めて、名前を聞けば全員知ってる大バラエティ番組のディレクターをやっていた。 そしてその仕事に見切りをつけて広報として働け...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「未だに日本が世界一だと勝手に考えているだけなのです…」中国に移住した“サラリーマン漫画家”が語る“日本漫画界”のリアルな現状 | 文春オンライン]]></title>
+        <id>https://bunshun.jp/articles/-/52241</id>
+        <link href="https://bunshun.jp/articles/-/52241"/>
+        <updated>2022-03-01T23:59:04.000Z</updated>
+        <summary type="html"><![CDATA[日本の漫画といえば世界に名だたる文化であり、アニメーション作品とともにクールジャパンを牽引するコンテンツといっても過言ではない。それにもかかわらず、日本を飛び出し、中国でサラリーマン漫画家となった男性がいる。彼が目の当たりにした日中の漫画界の違いとは……。 ここでは中国在住のドキュメンタリー監督、竹...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[食パンは一番安いのを選んでいたが売り切れだったので仕方なく『超熟』を買ってみたら世界が変わった「あれを味わったらもう戻れなくなる」]]></title>
+        <id>https://togetter.com/li/1852764</id>
+        <link href="https://togetter.com/li/1852764"/>
+        <updated>2022-03-01T23:57:42.000Z</updated>
+        <summary type="html"><![CDATA[今そっち @gororin_dararin 食パンは一番安いのを買ってました。でも売り切れだったので仕方なく超熟を買ってみました。世界が変わりました。これから1ヶ月の食パン代が＋700円になります。 2022-03-01 09:18:09 Pasco/敷島製パン株式会社【公式】 @Pasco_JP Pascoの公式Twitterです。新商品やキャンペーン情報など、パ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「全ての住所フォームがこうなってほしい」　SIerが公開した“使いやすい入力欄”の作り方が話題　ソースコードも掲載]]></title>
+        <id>https://www.itmedia.co.jp/news/articles/2203/02/news056.html</id>
+        <link href="https://www.itmedia.co.jp/news/articles/2203/02/news056.html"/>
+        <updated>2022-03-01T23:39:10.000Z</updated>
+        <summary type="html"><![CDATA[SIerのオープンコレクターが公開した、使いやすい住所入力フォームを作る知見をまとめたブログ記事が話題だ。「郵便番号を入れる枠はひとまとまりに」といった機能の必要性などを説明しており、デモページやソースコードも掲載している。 「郵便番号を入れる枠はひとまとまりに」「郵便番号を基にした住所の自動入力を搭...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Wordle Clone in JavaScript]]></title>
+        <id>621903c6c4d0d306772efc76</id>
+        <link href="https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/"/>
+        <updated>2022-03-01T23:35:30.000Z</updated>
+        <summary type="html"><![CDATA[In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build]]></summary>
+        <author>
+            <name>Paul Akinyemi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ユヴァル・ノア・ハラリ「プーチンが歴史的敗北に向かって突き進んでいるように見える」 | 国というものは、物語の上に築かれる]]></title>
+        <id>https://courrier.jp/news/archives/280705/</id>
+        <link href="https://courrier.jp/news/archives/280705/"/>
+        <updated>2022-03-01T23:04:28.000Z</updated>
+        <summary type="html"><![CDATA[開戦から1週間も経たないが、ウラジーミル・プーチンが歴史的敗北に向かって突き進んでいる可能性がますます高くなっているように見える。たとえプーチンがすべての戦闘で勝っても、この戦争は彼の負けになりうるのだ。 プーチンが夢見るのはロシア帝国の再興だが、その夢ははじめからウソの上に成り立つものだった。並...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理不尽なシステムやパワハラって何で生き残り続けてるの？と思った人に読んで欲しい話]]></title>
+        <id>https://blog.tinect.jp/?p=75256</id>
+        <link href="https://blog.tinect.jp/?p=75256"/>
+        <updated>2022-03-01T22:50:34.000Z</updated>
+        <summary type="html"><![CDATA[筆者はジョージタウン大学マクドノー・スクール・オブ・ビジネス准教授である。 彼女は本書を通じて、失礼な態度がどれだけ組織の生産性を落とすのかを述べている。 本書はこの記事を執筆している時点でAmazonレビュー☆4で、519個と非常に多くのレビューがなされている。 それもあって僕は物凄く期待して本書を読み進め...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ウクライナ 中国 外相電話会談 停戦に向け仲介求める | NHKニュース]]></title>
+        <id>https://www3.nhk.or.jp/news/html/20220302/k10013508901000.html</id>
+        <link href="https://www3.nhk.or.jp/news/html/20220302/k10013508901000.html"/>
+        <updated>2022-03-01T22:05:47.000Z</updated>
+        <summary type="html"><![CDATA[ウクライナ情勢を受けて、中国の王毅外相とウクライナのクレバ外相が1日電話会談を行い、クレバ外相は中国側に停戦に向けた仲介を求めました。 中国外務省によりますと、この中でクレバ外相は2月28日に行われたロシアの代表団との会談について説明し「戦争を終結させることがウクライナの最優先事項であり、現在の交渉は...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IoT Deployment – How to Secure and Deploy Internet of Things Devices]]></title>
         <id>621d6316c4d0d306772f1f16</id>
@@ -46,6 +387,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NATOの東方不拡大の「約束」はなかった　ー最新の外交史研究の成果から｜細谷雄一｜国際政治学者｜note]]></title>
+        <id>https://note.com/yuichihosoya/n/n778caf033b27</id>
+        <link href="https://note.com/yuichihosoya/n/n778caf033b27"/>
+        <updated>2022-03-01T19:08:30.000Z</updated>
+        <summary type="html"><![CDATA[メアリー・サロッティ教授によるケンブリッジでのオンラインでの講演がありました。サロッティ教授はいまもっとも評価が高い米国人の外交史家の一人で、ドイツ統一や冷戦終結についての優れた研究があります。そしてこの講演の中で、「NATO東方不拡大の約束はない」と明言。 あまりにもタイムリーで充実した内容で、これ...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Electronの代替を目指す軽量なRust製フレームワーク「Tauri」、リリース候補版に到達]]></title>
+        <id>https://www.publickey1.jp/blog/22/electronrusttauri.html</id>
+        <link href="https://www.publickey1.jp/blog/22/electronrusttauri.html"/>
+        <updated>2022-03-01T18:03:18.000Z</updated>
+        <summary type="html"><![CDATA[WindowsやmacOS、Linuxなどのクロスプラットフォーム対応のデスクトップアプリ開発を容易にするフレームワークとして高い人気を持つフレームワークが「Electron」です。 ElectronはChromiumとNode.jsを用いることで、HTML/CSS/JavaScriptのWebテクノロジーによってデスクトップアプリケーションを開発できるのが最大の特...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CSS Custom Highlight API: The Future of Highlighting Text Ranges on the Web]]></title>
         <id>https://css-tricks.com/?p=363724</id>
         <link href="https://css-tricks.com/css-custom-highlight-api-early-loo/"/>
@@ -69,6 +430,46 @@ Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[無印で働いてたらアルバイト女子に「寝心地を確かめたいから一緒に入って」と執拗に迫るおじさんが居たので神対応した話…接客は変態との闘争エピ続々]]></title>
+        <id>https://togetter.com/li/1852672</id>
+        <link href="https://togetter.com/li/1852672"/>
+        <updated>2022-03-01T15:19:42.000Z</updated>
+        <summary type="html"><![CDATA[鹿の末裔 @densetsunoshika 以前、無印良品で働いてた時にバイトの女の子に「二人で寝た時のベッドの寝心地を確かめたいから一緒にベットに入ってほしい」って執拗に迫るオジサンがいて、「僕が一緒に入りますよ」って声かけたら舌打ちしていなくなったことあったな。 マジで接客業は変態との戦いだよ。 twitter.com/hin...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ロシアの攻勢と新世界 (2022/02/26): 侵略成功時のロシアの予定稿 全訳 - 山形浩生の「経済のトリセツ」]]></title>
+        <id>https://cruel.hatenablog.com/entry/2022/03/02/001238</id>
+        <link href="https://cruel.hatenablog.com/entry/2022/03/02/001238"/>
+        <updated>2022-03-01T15:19:32.000Z</updated>
+        <summary type="html"><![CDATA[訳者まえがき まちがって公開されたとおぼしき、ロシアがウクライナ征服に成功していた場合のロシア国営通信 RIA予定稿の全訳。すぐに引っ込められたが、Wayback Machineにしっかり捕捉されていた。すごい代物。いくらでも言いたいことはあるが、読めば多くの人は同じことを考えるだろうし、ある100年近く前のドイツの人...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[入管が外国人を殺害しても騒がない日本人がウクライナの時だけ大騒ぎ とっ..]]></title>
+        <id>https://anond.hatelabo.jp/20220302000536</id>
+        <link href="https://anond.hatelabo.jp/20220302000536"/>
+        <updated>2022-03-01T15:09:13.000Z</updated>
+        <summary type="html"><![CDATA[入管が外国人を殺害しても騒がない日本人がウクライナの時だけ大騒ぎ とっても不可解だよね]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50日の命が教えてくれたこと]]></title>
+        <id>https://anond.hatelabo.jp/20220301220446</id>
+        <link href="https://anond.hatelabo.jp/20220301220446"/>
+        <updated>2022-03-01T13:50:09.000Z</updated>
+        <summary type="html"><![CDATA[アラサー、既婚、子無し。 避妊をしていたが、何かの偶然で妊娠をした。 産婦人科でおめでとうと言われた。 夫もなんだかんだ嬉しそうだった。 さて、この期間にいつ会社に報告するか 就業規則を改めて見直した。 最低限しかない。 健康保険と雇用保険のみの補償。 それ以外就業規則に記載されていない。 数年前、私の中...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New CSS Features In 2022]]></title>
         <id>https://smashingmagazine.com/2022/03/new-css-features-2022/</id>
         <link href="https://smashingmagazine.com/2022/03/new-css-features-2022/"/>
@@ -76,6 +477,26 @@ Ahmad Shadeed: Use Cases For CSS fit-content originally published on CSS-Tricks.
         <summary type="html"><![CDATA[2022 is shaping up to be a pretty great year for CSS, with a plethora of new features on the horizon. Some are already starting to land in browsers, others are likely to gain widespread browser support in 2022, while for one or two the process may be a little longer. In this article we’ll take a look at a few of them.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Michelle Barker)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[背景合成アプリ「Shoost」レビュー 映画のワンシーンのような「いい感じ」の絵を手軽に作れる | PANORA]]></title>
+        <id>https://panora.tokyo/archives/44330</id>
+        <link href="https://panora.tokyo/archives/44330"/>
+        <updated>2022-03-01T11:34:42.000Z</updated>
+        <summary type="html"><![CDATA[ビジュアルクリエイティブディレクターのMuRo氏が発表した「Shoost」はユニークなツールだ。「いい感じの雰囲気の絵を簡単に作りたい！ キャラクターをきれいに魅せたい！」という思いから生まれた本ツールは、3つのレイヤーを重ね合わせ、その上から撮影効果を付与することで、画面・映像を作るという今までにない立ち...]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[竹下郁子 on Twitter: "男男男.... 露とウクライナが初の停戦協議、結果持ち帰り近く再協議へ…協議中も露軍攻撃続くhttps://t.co/gRcdz9EfZ8"]]></title>
+        <id>https://twitter.com/i_tkst/status/1498482382021693441</id>
+        <link href="https://twitter.com/i_tkst/status/1498482382021693441"/>
+        <updated>2022-03-01T10:06:05.000Z</updated>
+        <summary type="html"><![CDATA[男男男.... 露とウクライナが初の停戦協議、結果持ち帰り近く再協議へ…協議中も露軍攻撃続くhttps://t.co/gRcdz9EfZ8]]></summary>
+        <author>
+            <name>はてなブックマーク - 人気エントリー - 総合</name>
         </author>
     </entry>
     <entry>

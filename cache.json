@@ -562,6 +562,26 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "621e97a4c4d0d306772f290b",
+          "author": "Daniel Rosa",
+          "description": "In this article, you'll learn how to work with JavaScript in the backend using Node on Windows. When you start working with JavaScript and discover that you can not only work with it in the frontend but also in the backend, a new world of possibilities seems to open up",
+          "link": "https://www.freecodecamp.org/news/how-to-install-node-js-and-npm-on-windows-2/",
+          "publishedOn": "2022-03-02T00:18:51.000Z",
+          "wordCount": 1507,
+          "title": "How to Install Node.js and npm on Windows",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-digital-buggu-171198--1-.jpg"
+        },
+        {
+          "id": "621903c6c4d0d306772efc76",
+          "author": "Paul Akinyemi",
+          "description": "In this article, you will be recreating the guessing game Wordle [https://www.nytimes.com/games/wordle/index.html]. This article covers the core game logic but does not implement sharing your results. The article also doesn't cover the functionality that generates game statistics.  This tutorial is intended for beginner front-end developers that want to build",
+          "link": "https://www.freecodecamp.org/news/build-a-wordle-clone-in-javascript/",
+          "publishedOn": "2022-03-01T23:35:30.000Z",
+          "wordCount": 2772,
+          "title": "How to Build a Wordle Clone in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/pexels-skitterphoto-695571.jpg"
+        },
+        {
           "id": "621d6316c4d0d306772f1f16",
           "author": "David Clinton",
           "description": "The Internet of Things (IoT) is a term that has been floating around for a few years now, but what does it actually mean?  The best way to describe the IoT is to think of it as the network of physical objects that are interconnected and can communicate with",
@@ -660,6 +680,413 @@
           "wordCount": 590,
           "title": "JavaScript Uppercase – How to Capitalize a String in JS with .toUpperCase",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/02/toUpperCase.png"
+        }
+      ]
+    },
+    {
+      "title": "はてなブックマーク - 人気エントリー - 総合",
+      "feedUrl": "https://b.hatena.ne.jp/hotentry.rss",
+      "siteUrl": "https://b.hatena.ne.jp/hotentry/all",
+      "articles": [
+        {
+          "id": "https://mainichi.jp/articles/20220302/k00/00m/010/320000c",
+          "author": null,
+          "description": "岸田文雄首相は2日、首相官邸で記者団にウクライナ情勢に関し「ウクライナとの連帯をさらに示すべく、第三国に避難した人の受け入れを進める。知人や親族が日本にいる人の受け入れを想定するが、人道的な観点から対応する」と表明した。ウクライナ情勢を巡り、ポーランド、ドイツ両首脳と相次いで電話協議した後、首相官...",
+          "link": "https://mainichi.jp/articles/20220302/k00/00m/010/320000c",
+          "publishedOn": "2022-03-02T11:31:26.000Z",
+          "wordCount": 450,
+          "title": "岸田首相、ウクライナ難民受け入れ表明　「至急、実務を調整」 | 毎日新聞",
+          "imageUrl": "https://cdn.mainichi.jp/vol1/2021/10/04/20211004k0000m010080000p/0c10.jpg?1"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220302/k10013510691000.html",
+          "author": null,
+          "description": "ロシアの軍事侵攻をめぐり岸田総理大臣は2日夜、記者団に対し、ウクライナから避難した人の日本への受け入れを進める方針を明らかにしました。",
+          "link": "https://www3.nhk.or.jp/news/html/20220302/k10013510691000.html",
+          "publishedOn": "2022-03-02T11:30:27.000Z",
+          "wordCount": 25,
+          "title": "岸田首相 ウクライナからの避難民 日本への受け入れを表明 | NHKニュース",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220302/K10013510691_2203022020_2203022021_01_02.jpg"
+        },
+        {
+          "id": "https://www.chunichi.co.jp/article/427561",
+          "author": null,
+          "description": "自国の国民どころか、児童にも容赦はない。ロシアはウクライナ侵略を開始してから2日で1週間目。ロシアで反戦を訴えた者は50都市で計約7000人が逮捕、拘束された。中には、小学校低学年とみられる3人の児童も逮捕され、護送車に押し込められた写真がネットで拡散、物議を醸している。 ロシア野党の政治家、イリヤ・ヤシ...",
+          "link": "https://www.chunichi.co.jp/article/427561",
+          "publishedOn": "2022-03-02T09:37:35.000Z",
+          "wordCount": 277,
+          "title": "プーチン大統領、自国で反戦の小学生3人を逮捕 ロシアの反体制政治家が写真を投稿 うち2人は女の子、ボードには花の絵が…：中日スポーツ・東京中日スポーツ",
+          "imageUrl": "https://static.chunichi.co.jp/image/article/size1/5/9/2/0/5920129dcb45a28092c2189bae8bde63_1.jpg"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/52406",
+          "author": null,
+          "description": "「週刊文春」は2月10日発売号でNTTドコモ社員の“大幅賃下げ”を報じ、2月17日発売号ではNTTが賃下げの“大号令”をNTTグループ全体に向けて出している実態を報じた。今回新たに、NTTドコモがドコモショップの大量閉店を計画し、店舗を運営する代理店側に伝えていることが小誌の取材でわかった。 ドコモは2020年12月、持株会...",
+          "link": "https://bunshun.jp/articles/-/52406",
+          "publishedOn": "2022-03-02T08:50:35.000Z",
+          "wordCount": 201,
+          "title": "2022年度に100店　NTTドコモがドコモショップ400〜500店舗の閉店を計画 | 文春オンライン",
+          "imageUrl": "https://bunshun.jp/mwimgs/a/7/-/img_a74e6e679cffb428fe4788bddc22c5fa392546.jpg"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/52420",
+          "author": null,
+          "description": "ロシアがウクライナへの全面侵攻を開始してから約1週間。刻々と変化する戦況や現地での痛ましい被害が伝えられるなか、未だに見えないのが「プーチン大統領の思惑」だ。プーチンは何を求め、どんなシナリオのもとでこの侵攻を行っているのか。 そこで、防衛省防衛研究所でロシアの安全保障について研究している山添博史...",
+          "link": "https://bunshun.jp/articles/-/52420",
+          "publishedOn": "2022-03-02T08:50:27.000Z",
+          "wordCount": 203,
+          "title": "「勝てるようにやっているとは思えない」専門家も戸惑うウクライナ侵攻…プーチンは“狂気の独裁者”になったのか | 文春オンライン",
+          "imageUrl": "https://bunshun.jp/mwimgs/e/a/-/img_ea4ddc2e2754f3d20983014cdfa7aef9857330.jpg"
+        },
+        {
+          "id": "https://www.sankei.com/article/20220302-ZXURCTX2HZM2HCHY7LGOYPDNLA/",
+          "author": null,
+          "description": "参院予算委で答弁に臨む林芳正外務相＝２日午前、国会・参院第一委員会室（矢島康弘撮影）ウクライナ情勢の緊迫を受け、同国のコルスンスキー駐日大使が林芳正外相に面会を要請していたが、約１カ月にわたり実現していなかったことが２日の参院予算委員会で明らかになった。林氏は「私自身は大使からの面会要望は承知し...",
+          "link": "https://www.sankei.com/article/20220302-ZXURCTX2HZM2HCHY7LGOYPDNLA/",
+          "publishedOn": "2022-03-02T08:37:43.000Z",
+          "wordCount": 45,
+          "title": "駐日ウクライナ大使、林外相と面会希望も１カ月実現せず",
+          "imageUrl": "https://www.sankei.com/resizer/5b_h5Kf3fh4nDgXihbapTmKt3yY=/1200x630/smart/cloudfront-ap-northeast-1.images.arcpublishing.com/sankei/62YSZFNMDVNGRFDMEEOPGHKCSM.jpg"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220302/k10013509571000.html",
+          "author": null,
+          "description": "東京都は2日、都内で新たに1万2693人が新型コロナウイルスに感染していることを確認したと発表しました。1週間前の水曜日よりおよそ1900人減りました。 またこれまでの都の基準で集計した人工呼吸器かECMO＝人工心肺装置を使っている重症の患者は2日時点で1日と同じ68人でした。",
+          "link": "https://www3.nhk.or.jp/news/html/20220302/k10013509571000.html",
+          "publishedOn": "2022-03-02T07:49:02.000Z",
+          "wordCount": 40,
+          "title": "東京都 新型コロナ 1万2693人感染確認 先週水曜より約1900人減 | NHKニュース",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220302/K10013509571_2203021522_2203021648_01_02.jpg"
+        },
+        {
+          "id": "https://gigazine.net/news/20220302-github-access-from-russia/",
+          "author": null,
+          "description": "ロシアのウクライナ侵攻を受けて、Appleが製品販売を停止したり、YouTubeがロシア系ニュースメディア2社の排除を決めたりと、ロシアに対する制裁措置が行われている一方で、Binanceをはじめとする仮想通貨取引所はロシアのユーザーのアカウント凍結要求を拒否する姿勢を見せています。新たに、開発プラットフォームのGit...",
+          "link": "https://gigazine.net/news/20220302-github-access-from-russia/",
+          "publishedOn": "2022-03-02T07:47:44.000Z",
+          "wordCount": 199,
+          "title": "GitHubがロシアからのアクセスを遮断する要求を拒否、「GitHubのビジョンはどこに住んでいるかに関係なく全開発者のホームになること」と回答",
+          "imageUrl": "https://i.gzn.jp/img/2022/03/02/github-access-from-russia/00_m.png"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220302/k10013509831000.html",
+          "author": null,
+          "description": "東京メトロの駅の多機能トイレで、警報システムの不備が原因で、トイレ内で倒れた利用者の発見が大幅に遅れ、その後死亡していたことが分かりました。 ほかの多機能トイレ、12か所でもシステムの不具合が見つかったということで、東京メトロは再発防止を徹底したいとしています。 去年6月、東京メトロ 日比谷線の八丁堀...",
+          "link": "https://www3.nhk.or.jp/news/html/20220302/k10013509831000.html",
+          "publishedOn": "2022-03-02T07:38:50.000Z",
+          "wordCount": 20,
+          "title": "トイレ警報システム不備 発見遅れ利用者死亡 日比谷線八丁堀駅 | NHKニュース",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220302/K10013509831_2203021628_2203021634_01_02.jpg"
+        },
+        {
+          "id": "https://www.news-postseven.com/archives/20220302_1730936.html?DETAIL",
+          "author": null,
+          "description": "立憲民主党の蓮舫参議院議員（54才）に関する驚くべき情報が浮上した。アイドルグルームのメンバーとしても活動した長男・村田琳（24才）が自民党に入党していた。さらに、自民党の大物フィクサーとして知られる人物と養子縁組をしていたことがわかった。3日発売の『女性セブン』が報じる。 永田町関係者が明かす。 「実...",
+          "link": "https://www.news-postseven.com/archives/20220302_1730936.html?DETAIL",
+          "publishedOn": "2022-03-02T07:37:07.000Z",
+          "wordCount": 155,
+          "title": "蓮舫議員のアイドル長男が自民党に入党　自民党の大物フィクサーと養子縁組",
+          "imageUrl": "https://www.news-postseven.com/uploads/2022/03/02/kyodo_eyc_renho-1.jpg"
+        },
+        {
+          "id": "https://zenn.dev/adwd/articles/4b1e38796bd763",
+          "author": null,
+          "description": "タイトルのとおりです。この本を読まずにGraphQLについての記事を書いたりしツイートしてたのが恥ずかしいくらいに良質なプラクティスが記載されています。GraphQLを採用して悩むことのほとんどはこの本に書いてあるくらいな印象で、この本を読むと効率よくGraphQLを使った開発の品質を向上できると思います。 どんな人...",
+          "link": "https://zenn.dev/adwd/articles/4b1e38796bd763",
+          "publishedOn": "2022-03-02T07:16:34.000Z",
+          "wordCount": 74,
+          "title": "Production Ready GraphQLはGraphQLを採用するなら必ず読んでおきたい良書",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--YTbWiGmf--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:adwd%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Production%2520Ready%2520GraphQL%25E3%2581%25AFGraphQL%25E3%2582%2592%25E6%258E%25A1%25E7%2594%25A8%25E3%2581%2599%25E3%2582%258B%25E3%2581%25AA%25E3%2582%2589%25E5%25BF%2585%25E3%2581%259A%25E8%25AA%25AD%25E3%2582%2593%25E3%2581%25A7%25E3%2581%258A%25E3%2581%258D%25E3%2581%259F%25E3%2581%2584%25E8%2589%25AF%25E6%259B%25B8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS13LXpyODRpNi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzA2NTM4ZWMxMzMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220302/k10013509681000.html",
+          "author": null,
+          "description": "2日午前、北海道の根室半島沖の上空で、ロシア機とみられるヘリコプターが日本の領空を侵犯しました。 ロシア機やロシア機とみられる航空機が日本の領空を侵犯したと防衛省が公表したのは去年9月以来です。 防衛省によりますと、2日午前10時23分ごろ、北海道の根室半島の南東沖の上空で、ロシア機とみられるヘリコプター...",
+          "link": "https://www3.nhk.or.jp/news/html/20220302/k10013509681000.html",
+          "publishedOn": "2022-03-02T07:08:15.000Z",
+          "wordCount": 24,
+          "title": "根室沖でヘリ領空侵犯 ロシア機か 防衛省が外交ルート通じ抗議 | NHKニュース",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220302/K10013509681_2203021605_2203021605_01_02.jpg"
+        },
+        {
+          "id": "https://twitter.com/LazyWorkz/status/1498694026005864448",
+          "author": null,
+          "description": "ウクライナへ侵攻したロシア人兵士12万人ひとりひとりの個人名と所属を、ウクライナ・プラウダが晒してしまう。 リストは6616ページにも及ぶ。 https://t.co/qTdOQQT7BI こんなの前代未聞では。 ここからどんな… https://t.co/zRnYnzKdz2",
+          "link": "https://twitter.com/LazyWorkz/status/1498694026005864448",
+          "publishedOn": "2022-03-02T06:48:51.000Z",
+          "wordCount": 196,
+          "title": "須藤玲司 on Twitter: \"ウクライナへ侵攻したロシア人兵士12万人ひとりひとりの個人名と所属を、ウクライナ・プラウダが晒してしまう。 リストは6616ページにも及ぶ。 https://t.co/qTdOQQT7BI こんなの前代未聞では。 ここからどんな… https://t.co/zRnYnzKdz2\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220302153114",
+          "author": null,
+          "description": "世界銀行による男女格差の調査で日本の順位が80位から103位に落ちたとのこと。 https://nordot.app/871377521626415104 具体的な内容がわからなかったので、世界銀行が公開しているデータを見てみた。 元データプレスリリースはこちら https://www.worldbank.org/en/news/press-release/2022/03/01/nearly-2-4-billion-w...",
+          "link": "https://anond.hatelabo.jp/20220302153114",
+          "publishedOn": "2022-03-02T06:36:14.000Z",
+          "wordCount": 291,
+          "title": "世界銀行の男女格差調査の中身を見てみた",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://www.asahi.co.jp/webnews/pages/abc_14214.html",
+          "author": null,
+          "description": "関西ニュースKANSAI 【速報】大阪・関西万博「公式キャラクター」最終候補の３作品発表　全国から意見募集し春頃最終決定 03/02 14:04 ２０２５年に開かれる大阪・関西万博の「公式キャラクターデザイン」の最終候補作品３つが発表されました。 日本国際博覧会協会によりますと、去年１１月から１ヵ月かけて行った一般公...",
+          "link": "https://www.asahi.co.jp/webnews/pages/abc_14214.html",
+          "publishedOn": "2022-03-02T06:01:32.000Z",
+          "wordCount": 19,
+          "title": "【速報】大阪・関西万博「公式キャラクター」最終候補の３作品発表　全国から意見募集し春頃最終決定",
+          "imageUrl": "https://www.asahi.co.jp/webnews/pages/img/14214_220302bampaku-new.jpg"
+        },
+        {
+          "id": "https://www.cnn.co.jp/world/35184287.html",
+          "author": null,
+          "description": "ウクライナ侵攻に反対するデモ参加者＝２月２４日、ロシア・モスクワ/Daniil Danchenko/NurPhoto via Getty Images モスクワ（ＣＮＮ） ロシア軍のウクライナ侵攻が始まって以来、ロシア国内で反戦デモに参加していた６４００人以上が逮捕された。しかし参加者が拘束される様子は国営テレビでは一切報道されていない。 ...",
+          "link": "https://www.cnn.co.jp/world/35184287.html",
+          "publishedOn": "2022-03-02T04:13:50.000Z",
+          "wordCount": 164,
+          "title": "ロシアで反戦デモの逮捕者６４００人超、国営テレビは報道せず",
+          "imageUrl": "https://www.cnn.co.jp/storage/2022/03/02/fe04a7c85cf20115b831899423ddfb49/t/768/432/d/220301081732-01-moscow-protest-0224-super-169.jpg"
+        },
+        {
+          "id": "https://president.jp/articles/-/55173",
+          "author": null,
+          "description": "プーチンは精神を病んだのか 2月24日、ロシアのプーチン大統領はウクライナへの軍事侵攻に踏み切りました。 すべての国連加盟国は武力による威嚇や武力行使に訴えてはいけないという、戦後長らく守られてきた国連憲章第2条4項の約束事を露骨に破り、既存の国際秩序を破壊したわけですから、ロシアの責任は法的にも道義的...",
+          "link": "https://president.jp/articles/-/55173",
+          "publishedOn": "2022-03-02T03:29:07.000Z",
+          "wordCount": 248,
+          "title": "佐藤優｢もしもアメリカがトランプ大統領のままなら､ロシアのウクライナ侵攻は起こらなかった｣ ｢ロシアが軍事介入するなら､アメリカも軍を送る｣と脅せたはず",
+          "imageUrl": "https://president.ismcdn.jp/mwimgs/b/6/1200wm/img_b6b6cd7eaf3f68edd458c346a44dd5961015306.jpg"
+        },
+        {
+          "id": "https://travel.spot-app.jp/hikkoshi_yoppy/",
+          "author": null,
+          "description": "※この記事は「NURO 光」の提供でお送りいたします。 こんにちは！！！！！！！！！！！！ 引っ越しのシーズンですね！！！！！！！！！！！！！！！！！！！！！！！！ 毎年この時期になるとTwitterなんかで「絶対都市ガス！プロパンはガス代えぐいぞ！」とか、「引っ越しの時はこれに注意！」みたいなツイートがバズっ...",
+          "link": "https://travel.spot-app.jp/hikkoshi_yoppy/",
+          "publishedOn": "2022-03-02T03:18:22.000Z",
+          "wordCount": 1573,
+          "title": "【永久保存版】「引っ越しするならとりあえずこれを見ておけ！」っていう記事_PR | SPOT",
+          "imageUrl": "https://d1uyv6v1bosv8j.cloudfront.net/wp-content/uploads/2022/02/02115151/hikkoshi_yoppy_ogp.jpg"
+        },
+        {
+          "id": "https://kyoko-np.net/owabi_220302.html",
+          "author": null,
+          "description": "２０１６年６月８日付本紙記事「「辛くて苦手」に新商品　「種なし柿の種」登場」につきまして、「ピーナッツしかない柿の種」が近く発売されるとのご指摘が、複数の読者から寄せられました。編集部で調査した結果、亀田製菓から『亀田の柿の種　ピーナッツだけ』という類似商品が今月発売されることを確認しました。虚...",
+          "link": "https://kyoko-np.net/owabi_220302.html",
+          "publishedOn": "2022-03-02T03:06:47.000Z",
+          "wordCount": 104,
+          "title": "「「辛くて苦手」に新商品　「種なし柿の種」登場」についてお詫び",
+          "imageUrl": "https://kyoko-np.net/images/nokaki.jpg"
+        },
+        {
+          "id": "https://zenn.dev/tmknom/books/github-organization-security",
+          "author": null,
+          "description": "本書ではGitHub Organizationをセキュアに運用する方法について解説します。 GitHubは大変便利なサービスで、個人利用のみならず組織で活用されるケースも多いです。しかしGitHubの初期設定は利便性重視であり、セキュリティ対策は利用者による明示的な設定が必要です。 本書では意外と日本語でまとまった情報がない、Or...",
+          "link": "https://zenn.dev/tmknom/books/github-organization-security",
+          "publishedOn": "2022-03-02T03:02:37.000Z",
+          "wordCount": 25,
+          "title": "GitHubセキュリティ Organization運用のベストプラクティス",
+          "imageUrl": "https://res.cloudinary.com/zenn/image/upload/s--Kc-upvsY--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYm9va19jb3Zlci8yNjE4NzJmOTNkLmpwZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1852953",
+          "author": null,
+          "description": "洋介犬@ジゴサタ４期開始決定 @yohsuken 新人漫画家「シナリオ力をつけるいい訓練ってあります？」 編集「あるよ。じゃあ簡単なお題で。『知り合いじゃない男子高校生と女子高生を知り合いにする方法を考えなさい』ただし、できるだけありきたりではない方法で」 「！？」 「３０個ぐらい考えてみようか」 2022-03-01 20...",
+          "link": "https://togetter.com/li/1852953",
+          "publishedOn": "2022-03-02T01:16:08.000Z",
+          "wordCount": 636,
+          "title": "新人漫画家「シナリオ力つける訓練ある？」編集「知り合いじゃない男子高校生と女子高生を知り合いにする方法を30個考えなさい」",
+          "imageUrl": "https://s.togetter.com/ogp/ba0eeb1b250e4f21b83adb8880a31da4-1200x630.png"
+        },
+        {
+          "id": "https://togetter.com/li/1852960",
+          "author": null,
+          "description": "イシデ電 @IshideDen 私その昔さ、とある手作り品のツイートがバズりにバズってネットニュースにもなって「商品化してくださいお願いします！！」ってリプライが雪崩のようにきて、それで、職人さん探してお金も時間もたっぷりかけて量産してもらったのよ。そして…→ 2022-03-01 15:17:06 イシデ電 @IshideDen 満を持して...",
+          "link": "https://togetter.com/li/1852960",
+          "publishedOn": "2022-03-02T01:12:11.000Z",
+          "wordCount": 1465,
+          "title": "手作り品のツイートがバズり『商品化してください！』というリプがたくさんついたので実際に販売したところ、こんな事になりました",
+          "imageUrl": "https://s.togetter.com/ogp/0a23121079a2e1924f74f21d82dd8b3d-1200x630.png"
+        },
+        {
+          "id": "https://togetter.com/li/1852945",
+          "author": null,
+          "description": "あめだま @ames_poke 怖いことに気がついたんだけど、ちっちゃな頃からはだしのゲンやら歴史の資料集やらで核の怖さをよくよくわかってるのってもしかして僕たちが日本で生まれ育っているからに他ならないのか？よその国でも「核が落ちると影が焼きついたり、人間がデロデロになります」って周知されてる？されてるとい...",
+          "link": "https://togetter.com/li/1852945",
+          "publishedOn": "2022-03-02T01:05:26.000Z",
+          "wordCount": 2426,
+          "title": "日本人は核兵器被害への解像度が「かなり高い」民族であり、諸外国では単なる「強めのバクダン」として認知されているのではという話",
+          "imageUrl": "https://s.togetter.com/ogp/2f550a582a1bb58123d2e39e46a2a035-1200x630.png"
+        },
+        {
+          "id": "https://www.huffingtonpost.jp/entry/story_jp_621cf06fe4b0d1388f18ac8b",
+          "author": null,
+          "description": "国会に出席した参考人に対し、国会議員からヤジが飛びました。実際に参考人として出席した人からは、「参考人にヤジを飛ばさないで」との訴えが上がっています。",
+          "link": "https://www.huffingtonpost.jp/entry/story_jp_621cf06fe4b0d1388f18ac8b",
+          "publishedOn": "2022-03-02T00:59:49.000Z",
+          "wordCount": 71,
+          "title": "「針のむしろのようでした」参考人として出席したらヤジを受けた。女性が語る“国会の昭和感”",
+          "imageUrl": "https://img.huffingtonpost.com/asset/621d69bc2300001b00136663.png?cache=rfOvx38eUF&ops=1778_1000"
+        },
+        {
+          "id": "http://real-c.info/",
+          "author": null,
+          "description": "このサイトは「本物の C 言語」について学習する機会の提供を目的としています。 「本物の」とはつまり、 標準規格（仕様）が C 言語をどういうものとして定めているか C プログラムが実際に CPU をどう動かすか という二つの意味合いに於いてです。 どうも巷間にはその辺りを気にせず何となくで書かれた資料が多い様な...",
+          "link": "http://real-c.info/",
+          "publishedOn": "2022-03-02T00:18:46.000Z",
+          "wordCount": 39,
+          "title": "表紙 - 本物のC",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220301105643",
+          "author": null,
+          "description": "私はある企業のYouTubeを運用している。 企画立案・撮影・編集をすべて私１人で行っている。 そんな私の身についさっき起きた話を聞いてほしい。 私は今の会社に入るまではとあるテレビ局に勤めて、名前を聞けば全員知ってる大バラエティ番組のディレクターをやっていた。 そしてその仕事に見切りをつけて広報として働け...",
+          "link": "https://anond.hatelabo.jp/20220301105643",
+          "publishedOn": "2022-03-01T23:59:46.000Z",
+          "wordCount": 197,
+          "title": "ある企業のYoutubeチャンネルを運営してるが役員を全員殴りたい話",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://bunshun.jp/articles/-/52241",
+          "author": null,
+          "description": "日本の漫画といえば世界に名だたる文化であり、アニメーション作品とともにクールジャパンを牽引するコンテンツといっても過言ではない。それにもかかわらず、日本を飛び出し、中国でサラリーマン漫画家となった男性がいる。彼が目の当たりにした日中の漫画界の違いとは……。 ここでは中国在住のドキュメンタリー監督、竹...",
+          "link": "https://bunshun.jp/articles/-/52241",
+          "publishedOn": "2022-03-01T23:59:04.000Z",
+          "wordCount": 194,
+          "title": "「未だに日本が世界一だと勝手に考えているだけなのです…」中国に移住した“サラリーマン漫画家”が語る“日本漫画界”のリアルな現状 | 文春オンライン",
+          "imageUrl": "https://bunshun.jp/mwimgs/b/5/-/img_b56ca8f4efcba0f46254b0337cf4d362140804.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1852764",
+          "author": null,
+          "description": "今そっち @gororin_dararin 食パンは一番安いのを買ってました。でも売り切れだったので仕方なく超熟を買ってみました。世界が変わりました。これから1ヶ月の食パン代が＋700円になります。 2022-03-01 09:18:09 Pasco/敷島製パン株式会社【公式】 @Pasco_JP Pascoの公式Twitterです。新商品やキャンペーン情報など、パ...",
+          "link": "https://togetter.com/li/1852764",
+          "publishedOn": "2022-03-01T23:57:42.000Z",
+          "wordCount": 1287,
+          "title": "食パンは一番安いのを選んでいたが売り切れだったので仕方なく『超熟』を買ってみたら世界が変わった「あれを味わったらもう戻れなくなる」",
+          "imageUrl": "https://s.togetter.com/ogp/ea70b9d0f418b0c3be7d9cb6d1319b6a-1200x630.png"
+        },
+        {
+          "id": "https://www.itmedia.co.jp/news/articles/2203/02/news056.html",
+          "author": null,
+          "description": "SIerのオープンコレクターが公開した、使いやすい住所入力フォームを作る知見をまとめたブログ記事が話題だ。「郵便番号を入れる枠はひとまとまりに」といった機能の必要性などを説明しており、デモページやソースコードも掲載している。 「郵便番号を入れる枠はひとまとまりに」「郵便番号を基にした住所の自動入力を搭...",
+          "link": "https://www.itmedia.co.jp/news/articles/2203/02/news056.html",
+          "publishedOn": "2022-03-01T23:39:10.000Z",
+          "wordCount": 144,
+          "title": "「全ての住所フォームがこうなってほしい」　SIerが公開した“使いやすい入力欄”の作り方が話題　ソースコードも掲載",
+          "imageUrl": "https://image.itmedia.co.jp/news/articles/2203/02/cover_news056.jpg"
+        },
+        {
+          "id": "https://courrier.jp/news/archives/280705/",
+          "author": null,
+          "description": "開戦から1週間も経たないが、ウラジーミル・プーチンが歴史的敗北に向かって突き進んでいる可能性がますます高くなっているように見える。たとえプーチンがすべての戦闘で勝っても、この戦争は彼の負けになりうるのだ。 プーチンが夢見るのはロシア帝国の再興だが、その夢ははじめからウソの上に成り立つものだった。並...",
+          "link": "https://courrier.jp/news/archives/280705/",
+          "publishedOn": "2022-03-01T23:04:28.000Z",
+          "wordCount": 211,
+          "title": "ユヴァル・ノア・ハラリ「プーチンが歴史的敗北に向かって突き進んでいるように見える」 | 国というものは、物語の上に築かれる",
+          "imageUrl": "https://courrier.jp/media/2022/03/02081742/harari0302.jpg"
+        },
+        {
+          "id": "https://blog.tinect.jp/?p=75256",
+          "author": null,
+          "description": "筆者はジョージタウン大学マクドノー・スクール・オブ・ビジネス准教授である。 彼女は本書を通じて、失礼な態度がどれだけ組織の生産性を落とすのかを述べている。 本書はこの記事を執筆している時点でAmazonレビュー☆4で、519個と非常に多くのレビューがなされている。 それもあって僕は物凄く期待して本書を読み進め...",
+          "link": "https://blog.tinect.jp/?p=75256",
+          "publishedOn": "2022-03-01T22:50:34.000Z",
+          "wordCount": 241,
+          "title": "理不尽なシステムやパワハラって何で生き残り続けてるの？と思った人に読んで欲しい話",
+          "imageUrl": "https://blog.tinect.jp/wp-content/uploads/2022/02/jerry-zhang-Nwz_QtZcVX8-unsplash.jpg"
+        },
+        {
+          "id": "https://www3.nhk.or.jp/news/html/20220302/k10013508901000.html",
+          "author": null,
+          "description": "ウクライナ情勢を受けて、中国の王毅外相とウクライナのクレバ外相が1日電話会談を行い、クレバ外相は中国側に停戦に向けた仲介を求めました。 中国外務省によりますと、この中でクレバ外相は2月28日に行われたロシアの代表団との会談について説明し「戦争を終結させることがウクライナの最優先事項であり、現在の交渉は...",
+          "link": "https://www3.nhk.or.jp/news/html/20220302/k10013508901000.html",
+          "publishedOn": "2022-03-01T22:05:47.000Z",
+          "wordCount": 24,
+          "title": "ウクライナ 中国 外相電話会談 停戦に向け仲介求める | NHKニュース",
+          "imageUrl": "https://www3.nhk.or.jp/news/html/20220302/K10013508901_2203020526_2203020530_01_02.jpg"
+        },
+        {
+          "id": "https://note.com/yuichihosoya/n/n778caf033b27",
+          "author": null,
+          "description": "メアリー・サロッティ教授によるケンブリッジでのオンラインでの講演がありました。サロッティ教授はいまもっとも評価が高い米国人の外交史家の一人で、ドイツ統一や冷戦終結についての優れた研究があります。そしてこの講演の中で、「NATO東方不拡大の約束はない」と明言。 あまりにもタイムリーで充実した内容で、これ...",
+          "link": "https://note.com/yuichihosoya/n/n778caf033b27",
+          "publishedOn": "2022-03-01T19:08:30.000Z",
+          "wordCount": 78,
+          "title": "NATOの東方不拡大の「約束」はなかった　ー最新の外交史研究の成果から｜細谷雄一｜国際政治学者｜note",
+          "imageUrl": "https://assets.st-note.com/production/uploads/images/73352143/rectangle_large_type_2_e2493fc6959e1d3aa2e54a7e8232b344.jpg?fit=bounds&quality=85&width=1280"
+        },
+        {
+          "id": "https://www.publickey1.jp/blog/22/electronrusttauri.html",
+          "author": null,
+          "description": "WindowsやmacOS、Linuxなどのクロスプラットフォーム対応のデスクトップアプリ開発を容易にするフレームワークとして高い人気を持つフレームワークが「Electron」です。 ElectronはChromiumとNode.jsを用いることで、HTML/CSS/JavaScriptのWebテクノロジーによってデスクトップアプリケーションを開発できるのが最大の特...",
+          "link": "https://www.publickey1.jp/blog/22/electronrusttauri.html",
+          "publishedOn": "2022-03-01T18:03:18.000Z",
+          "wordCount": 180,
+          "title": "Electronの代替を目指す軽量なRust製フレームワーク「Tauri」、リリース候補版に到達",
+          "imageUrl": "https://www.publickey1.jp/2022/btuvp2SE.jpg"
+        },
+        {
+          "id": "https://togetter.com/li/1852672",
+          "author": null,
+          "description": "鹿の末裔 @densetsunoshika 以前、無印良品で働いてた時にバイトの女の子に「二人で寝た時のベッドの寝心地を確かめたいから一緒にベットに入ってほしい」って執拗に迫るオジサンがいて、「僕が一緒に入りますよ」って声かけたら舌打ちしていなくなったことあったな。 マジで接客業は変態との戦いだよ。 twitter.com/hin...",
+          "link": "https://togetter.com/li/1852672",
+          "publishedOn": "2022-03-01T15:19:42.000Z",
+          "wordCount": 3118,
+          "title": "無印で働いてたらアルバイト女子に「寝心地を確かめたいから一緒に入って」と執拗に迫るおじさんが居たので神対応した話…接客は変態との闘争エピ続々",
+          "imageUrl": "https://s.togetter.com/ogp/a159419c1f26ae3d763bc461ff3985e4-1200x630.png"
+        },
+        {
+          "id": "https://cruel.hatenablog.com/entry/2022/03/02/001238",
+          "author": null,
+          "description": "訳者まえがき まちがって公開されたとおぼしき、ロシアがウクライナ征服に成功していた場合のロシア国営通信 RIA予定稿の全訳。すぐに引っ込められたが、Wayback Machineにしっかり捕捉されていた。すごい代物。いくらでも言いたいことはあるが、読めば多くの人は同じことを考えるだろうし、ある100年近く前のドイツの人...",
+          "link": "https://cruel.hatenablog.com/entry/2022/03/02/001238",
+          "publishedOn": "2022-03-01T15:19:32.000Z",
+          "wordCount": 273,
+          "title": "ロシアの攻勢と新世界 (2022/02/26): 侵略成功時のロシアの予定稿 全訳 - 山形浩生の「経済のトリセツ」",
+          "imageUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/w/wlj-Friday/20220301/20220301224217.jpg"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220302000536",
+          "author": null,
+          "description": "入管が外国人を殺害しても騒がない日本人がウクライナの時だけ大騒ぎ とっても不可解だよね",
+          "link": "https://anond.hatelabo.jp/20220302000536",
+          "publishedOn": "2022-03-01T15:09:13.000Z",
+          "wordCount": 810,
+          "title": "入管が外国人を殺害しても騒がない日本人がウクライナの時だけ大騒ぎ とっ..",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://anond.hatelabo.jp/20220301220446",
+          "author": null,
+          "description": "アラサー、既婚、子無し。 避妊をしていたが、何かの偶然で妊娠をした。 産婦人科でおめでとうと言われた。 夫もなんだかんだ嬉しそうだった。 さて、この期間にいつ会社に報告するか 就業規則を改めて見直した。 最低限しかない。 健康保険と雇用保険のみの補償。 それ以外就業規則に記載されていない。 数年前、私の中...",
+          "link": "https://anond.hatelabo.jp/20220301220446",
+          "publishedOn": "2022-03-01T13:50:09.000Z",
+          "wordCount": 151,
+          "title": "50日の命が教えてくれたこと",
+          "imageUrl": "https://anond.hatelabo.jp/images/og-image-1500.gif"
+        },
+        {
+          "id": "https://panora.tokyo/archives/44330",
+          "author": null,
+          "description": "ビジュアルクリエイティブディレクターのMuRo氏が発表した「Shoost」はユニークなツールだ。「いい感じの雰囲気の絵を簡単に作りたい！ キャラクターをきれいに魅せたい！」という思いから生まれた本ツールは、3つのレイヤーを重ね合わせ、その上から撮影効果を付与することで、画面・映像を作るという今までにない立ち...",
+          "link": "https://panora.tokyo/archives/44330",
+          "publishedOn": "2022-03-01T11:34:42.000Z",
+          "wordCount": 1015,
+          "title": "背景合成アプリ「Shoost」レビュー 映画のワンシーンのような「いい感じ」の絵を手軽に作れる | PANORA",
+          "imageUrl": "https://asset.panora.tokyo/wp-content/uploads/2022/03/01173205/Shoost_v0.1.2_2022.02.23_-_17.24.37.04.mp4_snapshot_05.56.023.jpg"
+        },
+        {
+          "id": "https://twitter.com/i_tkst/status/1498482382021693441",
+          "author": null,
+          "description": "男男男.... 露とウクライナが初の停戦協議、結果持ち帰り近く再協議へ…協議中も露軍攻撃続くhttps://t.co/gRcdz9EfZ8",
+          "link": "https://twitter.com/i_tkst/status/1498482382021693441",
+          "publishedOn": "2022-03-01T10:06:05.000Z",
+          "wordCount": 196,
+          "title": "竹下郁子 on Twitter: \"男男男.... 露とウクライナが初の停戦協議、結果持ち帰り近く再協議へ…協議中も露軍攻撃続くhttps://t.co/gRcdz9EfZ8\"",
+          "imageUrl": null
         }
       ]
     }
